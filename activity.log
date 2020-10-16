@@ -1,0 +1,111 @@
+2020-10-12 15:45:59,643 :: INFO :: --- Loaded data as dict
+2020-10-12 15:46:00,227 :: INFO :: --- Data
+2020-10-12 15:49:23,790 :: INFO :: --- Loaded data as dict
+2020-10-12 15:49:24,337 :: INFO :: --- Data
+2020-10-12 15:50:03,434 :: INFO :: --- Program starts
+2020-10-12 15:50:04,672 :: INFO :: --- Loaded data as dict
+2020-10-12 15:50:05,222 :: INFO :: --- Data has been tokenized
+2020-10-12 15:55:18,218 :: INFO :: --- Program starts
+2020-10-12 15:55:19,522 :: INFO :: --- Loaded data as dict
+2020-10-12 15:55:20,076 :: INFO :: --- Data has been tokenized
+2020-10-12 15:56:32,239 :: INFO :: --- Program starts
+2020-10-12 15:56:33,654 :: INFO :: --- Loaded data as dict
+2020-10-12 15:56:34,288 :: INFO :: --- Data has been tokenized
+2020-10-12 15:56:53,573 :: INFO :: --- Program starts
+2020-10-12 15:56:54,875 :: INFO :: --- Loaded data as dict
+2020-10-12 15:56:55,474 :: INFO :: --- Data has been tokenized
+2020-10-12 15:58:20,486 :: INFO :: --- Program starts
+2020-10-12 15:58:21,769 :: INFO :: --- Loaded data as dict
+2020-10-12 15:58:22,314 :: INFO :: --- Data has been tokenized
+2020-10-12 15:58:40,388 :: INFO :: --- Program starts
+2020-10-12 15:58:41,599 :: INFO :: --- Loaded data as dict
+2020-10-12 15:58:42,181 :: INFO :: --- Data has been tokenized
+2020-10-12 15:59:01,835 :: INFO :: --- Program starts
+2020-10-12 15:59:03,066 :: INFO :: --- Loaded data as dict
+2020-10-12 15:59:03,610 :: INFO :: --- Data has been tokenized
+2020-10-12 16:16:31,476 :: INFO :: --- Program starts
+2020-10-12 16:16:33,269 :: INFO :: --- Loaded data as dict
+2020-10-12 16:16:34,033 :: INFO :: --- Data has been tokenized
+2020-10-12 16:19:03,877 :: INFO :: --- Program starts
+2020-10-12 16:19:05,723 :: INFO :: --- Loaded data as dict
+2020-10-12 16:19:06,592 :: INFO :: --- Data has been tokenized
+2020-10-12 16:19:17,146 :: INFO :: --- Program starts
+2020-10-12 16:19:19,211 :: INFO :: --- Loaded data as dict
+2020-10-12 16:19:20,251 :: INFO :: --- Data has been tokenized
+2020-10-12 16:20:02,216 :: INFO :: --- Program starts
+2020-10-12 16:20:03,883 :: INFO :: --- Loaded data as dict
+2020-10-12 16:20:04,645 :: INFO :: --- Data has been tokenized
+2020-10-12 16:20:19,970 :: INFO :: --- Program starts
+2020-10-12 16:20:21,700 :: INFO :: --- Loaded data as dict
+2020-10-12 16:20:22,670 :: INFO :: --- Data has been tokenized
+2020-10-12 16:22:09,232 :: INFO :: --- Program starts
+2020-10-12 16:22:10,649 :: INFO :: --- Loaded data as dict
+2020-10-12 16:22:11,252 :: INFO :: --- Data has been tokenized
+2020-10-15 17:16:35,037 :: INFO :: Program starts
+2020-10-15 17:18:54,927 :: INFO :: Program starts
+2020-10-15 17:18:55,026 :: INFO :: --- Loaded data as dict
+2020-10-15 17:18:55,037 :: INFO :: Data has been tokenized
+2020-10-15 17:18:55,037 :: INFO :: 2000 rows in total
+2020-10-15 17:18:55,105 :: INFO :: --- Batched dataset created
+2020-10-15 17:24:16,991 :: INFO :: Program starts
+2020-10-15 17:24:17,076 :: INFO :: --- Loaded data as dict
+2020-10-15 17:24:17,076 :: INFO :: Data has been tokenized
+2020-10-15 17:24:17,076 :: INFO :: 200 rows in total
+2020-10-15 17:24:17,084 :: INFO :: --- Batched dataset created
+2020-10-15 17:25:12,434 :: INFO :: Program starts
+2020-10-15 17:25:12,504 :: INFO :: --- Loaded data as dict
+2020-10-15 17:25:12,504 :: INFO :: Data has been tokenized
+2020-10-15 17:25:12,504 :: INFO :: 200 rows in total
+2020-10-15 17:25:12,517 :: INFO :: --- Batched dataset created
+2020-10-15 17:27:00,494 :: INFO :: Program starts
+2020-10-15 17:27:00,775 :: INFO :: --- Loaded data as dict
+2020-10-15 17:27:00,806 :: INFO :: Data has been tokenized
+2020-10-15 17:27:00,806 :: INFO :: 200 rows in total
+2020-10-15 17:27:00,806 :: INFO :: --- Batched dataset created
+2020-10-15 17:27:28,037 :: INFO :: Program starts
+2020-10-15 17:27:28,279 :: INFO :: --- Loaded data as dict
+2020-10-15 17:27:28,284 :: INFO :: Data has been tokenized
+2020-10-15 17:27:28,284 :: INFO :: 200 rows in total
+2020-10-15 17:27:28,301 :: INFO :: --- Batched dataset created
+2020-10-15 17:28:22,815 :: INFO :: Program starts
+2020-10-15 17:28:23,065 :: INFO :: --- Loaded data as dict
+2020-10-15 17:28:23,066 :: INFO :: Data has been tokenized
+2020-10-15 17:28:23,066 :: INFO :: 20 rows in total
+2020-10-15 17:28:23,082 :: INFO :: --- Batched dataset created
+2020-10-15 17:28:39,465 :: INFO :: Program starts
+2020-10-15 17:28:39,716 :: INFO :: --- Loaded data as dict
+2020-10-15 17:28:39,732 :: INFO :: Data has been tokenized
+2020-10-15 17:28:39,732 :: INFO :: 20 rows in total
+2020-10-15 17:28:39,742 :: INFO :: --- Batched dataset created
+2020-10-15 17:29:35,347 :: INFO :: Program starts
+2020-10-15 17:29:35,603 :: INFO :: --- Loaded data as dict
+2020-10-15 17:29:55,778 :: INFO :: Program starts
+2020-10-15 17:29:56,023 :: INFO :: --- Loaded data as dict
+2020-10-15 17:29:56,032 :: INFO :: Data has been tokenized
+2020-10-15 17:29:56,032 :: INFO :: 20 rows in total
+2020-10-15 17:29:56,040 :: INFO :: --- Batched dataset created
+2020-10-15 17:30:13,834 :: INFO :: Program starts
+2020-10-15 17:30:14,076 :: INFO :: --- Loaded data as dict
+2020-10-15 17:30:14,085 :: INFO :: Data has been tokenized
+2020-10-15 17:30:14,085 :: INFO :: 40 rows in total
+2020-10-15 17:30:14,097 :: INFO :: --- Batched dataset created
+2020-10-15 17:31:00,637 :: INFO :: Program starts
+2020-10-15 17:31:00,879 :: INFO :: --- Loaded data as dict
+2020-10-15 17:31:00,887 :: INFO :: Data has been tokenized
+2020-10-15 17:31:00,887 :: INFO :: 2 rows in total
+2020-10-15 17:31:00,895 :: INFO :: --- Batched dataset created
+2020-10-15 17:31:38,763 :: INFO :: Program starts
+2020-10-15 17:31:39,006 :: INFO :: --- Loaded data as dict
+2020-10-15 17:31:39,013 :: INFO :: Data has been tokenized
+2020-10-15 17:31:39,014 :: INFO :: 2 rows in total
+2020-10-15 17:31:39,023 :: INFO :: --- Batched dataset created
+2020-10-15 17:33:12,329 :: INFO ::  --- Program starts --- 
+2020-10-15 17:33:12,575 :: INFO ::  --- Loaded data as dict --- 
+2020-10-15 17:33:12,583 :: INFO ::  --- Data has been tokenized --- 
+2020-10-15 17:33:12,583 :: INFO ::  --- 2 rows in total --- 
+2020-10-15 17:33:12,586 :: INFO ::  --- Batched dataset created --- 
+2020-10-15 17:33:30,000 :: INFO ::  --- Program starts --- 
+2020-10-15 17:33:30,239 :: INFO ::  --- Loaded data as dict --- 
+2020-10-15 17:33:30,246 :: INFO ::  --- Data has been tokenized --- 
+2020-10-15 17:33:30,247 :: INFO ::  --- 2 rows in total --- 
+2020-10-15 17:33:30,254 :: INFO ::  --- Batched dataset created --- 
