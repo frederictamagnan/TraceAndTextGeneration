@@ -1,21 +1,23 @@
 import logging
 
 from logging.handlers import RotatingFileHandler
-from general_config import config
+from general_config import general_config
 class Logging:
     def __init__(self):
 
         # création de l'objet logger qui va nous servir à écrire dans les logs
         self.logger = logging.getLogger()
         # on met le niveau du logger à DEBUG, comme ça il écrit tout
-        self.logger.setLevel(config['logging_level'])
+        self.logger.setLevel(general_config['logging_level'])
 
         # création d'un formateur qui va ajouter le temps, le niveau
         # de chaque message quand on écrira un message dans le log
         formatter = logging.Formatter('%(asctime)s :: %(levelname)s :: %(message)s')
         # création d'un handler qui va rediriger une écriture du log vers
         # un fichier en mode 'append', avec 1 backup et une taille max de 1Mo
-        file_handler = RotatingFileHandler('activity.log', 'a', 1000000, 1)
+        # root='C:/Users/QZTD9928/Documents/code/DeepLearningOnTracesVsText/'
+        root=general_config['root']
+        file_handler = RotatingFileHandler(root+'/'+'activity.log', 'a', 1000000, 1)
         # on lui met le niveau sur DEBUG, on lui dit qu'il doit utiliser le formateur
         # créé précédement et on ajoute ce handler au logger
         file_handler.setLevel(logging.DEBUG)

@@ -109,3 +109,333 @@
 2020-10-15 17:33:30,246 :: INFO ::  --- Data has been tokenized --- 
 2020-10-15 17:33:30,247 :: INFO ::  --- 2 rows in total --- 
 2020-10-15 17:33:30,254 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:49:40,458 :: INFO ::  --- Program starts --- 
+2020-10-19 17:49:40,709 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:49:40,889 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:49:40,889 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:50:37,972 :: INFO ::  --- Program starts --- 
+2020-10-19 17:50:38,277 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:50:38,572 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:50:38,572 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:50:38,581 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:50:53,037 :: INFO ::  --- Program starts --- 
+2020-10-19 17:50:53,273 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:50:53,456 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:50:53,457 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:50:53,465 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:51:25,420 :: INFO ::  --- Program starts --- 
+2020-10-19 17:51:25,665 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:51:25,828 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:51:25,828 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:51:25,836 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:51:51,137 :: INFO ::  --- Program starts --- 
+2020-10-19 17:51:51,382 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:51:51,566 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:51:51,566 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:51:51,574 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:51:51,575 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:51:51,575 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:51:51,581 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:51:51,581 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:53:33,593 :: INFO ::  --- Program starts --- 
+2020-10-19 17:53:33,840 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:53:34,009 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:53:34,009 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:53:34,017 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:53:34,017 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:53:34,017 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:53:34,023 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:53:34,023 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:18,916 :: INFO ::  --- Program starts --- 
+2020-10-19 17:55:19,198 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:55:19,384 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:55:19,384 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:55:19,393 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:55:19,394 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:55:19,394 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:55:19,399 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:19,399 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:19,399 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:39,063 :: INFO ::  --- Program starts --- 
+2020-10-19 17:55:39,326 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 17:55:39,506 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 17:55:39,506 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 17:55:39,514 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 17:55:39,515 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:55:39,515 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 17:55:39,520 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:39,520 :: INFO ::  --- encoders initialized --- 
+2020-10-19 17:55:39,520 :: INFO ::  --- encoders initialized --- 
+2020-10-19 19:15:43,478 :: INFO ::  --- Program starts --- 
+2020-10-19 19:15:43,726 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:15:43,904 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:15:43,905 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:15:44,002 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:15:44,002 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:15:44,002 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:15:44,008 :: INFO ::  --- encoders initialized --- 
+2020-10-19 19:15:44,008 :: INFO ::  --- encoders initialized --- 
+2020-10-19 19:15:44,008 :: INFO ::  --- encoders initialized --- 
+2020-10-19 19:17:07,367 :: INFO ::  --- Program starts --- 
+2020-10-19 19:17:07,601 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:17:07,788 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:17:07,788 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:17:07,795 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:17:07,796 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:17:07,796 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:17:07,801 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:17:07,801 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:17:07,801 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:17:26,578 :: INFO ::  --- Program starts --- 
+2020-10-19 19:17:26,862 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:17:27,146 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:17:27,147 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:17:27,160 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:17:27,161 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:17:27,161 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:17:27,172 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:17:27,172 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:17:27,172 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:18:51,236 :: INFO ::  --- Program starts --- 
+2020-10-19 19:18:51,472 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:18:51,643 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:18:51,643 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:18:51,651 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:18:51,652 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:18:51,652 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:18:51,657 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:18:51,657 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:18:51,657 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:19:16,748 :: INFO ::  --- Program starts --- 
+2020-10-19 19:19:16,994 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:19:17,154 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:19:17,154 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:19:17,162 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:19:17,163 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:19:17,163 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:19:17,168 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:19:17,168 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:19:17,168 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:20:04,502 :: INFO ::  --- Program starts --- 
+2020-10-19 19:20:04,754 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:20:04,916 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:20:04,916 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:20:04,925 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:20:04,925 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:20:04,925 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:20:04,930 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:20:04,930 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:20:04,930 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:21:30,363 :: INFO ::  --- Program starts --- 
+2020-10-19 19:21:30,615 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:21:30,778 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:21:30,779 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:21:30,787 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:21:30,787 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:21:30,787 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:21:30,793 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:21:30,793 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:21:30,793 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:22:08,994 :: INFO ::  --- Program starts --- 
+2020-10-19 19:22:09,235 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:22:09,396 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:22:09,396 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:22:09,404 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:22:09,405 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:22:09,405 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:22:09,410 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:22:09,410 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:22:09,410 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:23:05,021 :: INFO ::  --- Program starts --- 
+2020-10-19 19:23:05,265 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:23:05,425 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:23:05,425 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:23:05,433 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:23:05,434 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:23:05,434 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:23:05,439 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:23:05,439 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:23:05,439 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:23:07,138 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:23:07,138 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:23:07,138 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:23:07,138 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:23:09,010 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:23:09,010 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:23:09,010 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:23:09,010 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:24:24,363 :: INFO ::  --- Program starts --- 
+2020-10-19 19:24:24,622 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:24:24,784 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:24:24,784 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:24:24,792 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:24:24,793 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:24:24,793 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:24:24,798 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:24:24,798 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:24:24,798 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:24:26,370 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:24:26,370 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:24:26,370 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:24:26,370 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:24:28,114 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:24:28,114 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:24:28,114 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:24:28,114 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:27:00,882 :: INFO ::  --- Program starts --- 
+2020-10-19 19:27:01,145 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:27:01,336 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:27:01,336 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:27:01,346 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:27:01,346 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:27:01,346 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:27:01,353 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:27:01,353 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:27:01,353 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:27:02,912 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:27:02,912 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:27:02,912 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:27:02,912 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:27:04,674 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:27:04,674 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:27:04,674 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:27:04,674 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:30:04,439 :: INFO ::  --- Program starts --- 
+2020-10-19 19:30:04,691 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:30:04,850 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:30:04,851 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:30:04,851 :: INFO ::  --- Data has 1 channels --- 
+2020-10-19 19:30:04,859 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:30:04,860 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:30:04,860 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:30:04,865 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:30:04,865 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:30:04,865 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:33:06,933 :: INFO ::  --- Program starts --- 
+2020-10-19 19:33:07,200 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:33:07,385 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:33:07,385 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:33:07,385 :: INFO ::  --- Data has 1 channels --- 
+2020-10-19 19:33:07,439 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:33:07,440 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:33:07,440 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:33:07,448 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:33:07,448 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:33:07,448 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:33:09,054 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:33:09,054 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:33:09,054 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:33:09,054 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:33:10,758 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:33:10,758 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:33:10,758 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:33:10,758 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:39:46,641 :: INFO ::  --- Program starts --- 
+2020-10-19 19:39:46,891 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:39:47,054 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:39:47,055 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:39:47,055 :: INFO ::  --- Data has 1 channels --- 
+2020-10-19 19:39:47,132 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:39:47,133 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:39:47,133 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:39:47,139 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:39:47,139 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:39:47,139 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:39:48,760 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:39:48,760 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:39:48,760 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:39:48,760 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:39:50,672 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:39:50,672 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:39:50,672 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:39:50,672 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:39:50,718 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:39:50,718 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:39:50,718 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:39:50,718 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:40:27,347 :: INFO ::  --- Program starts --- 
+2020-10-19 19:40:27,767 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:40:28,023 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:40:28,023 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:40:28,023 :: INFO ::  --- Data has 1 channels --- 
+2020-10-19 19:40:28,033 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:40:28,034 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:40:28,034 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:40:28,039 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:40:28,039 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:40:28,039 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:40:30,041 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:40:30,041 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:40:30,041 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:40:30,041 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:40:31,982 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:40:31,982 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:40:31,982 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:40:31,982 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:40:32,030 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:40:32,030 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:40:32,030 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:40:32,030 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:40:32,351 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 20, 64), dtype=float32) --- 
+2020-10-19 19:40:32,351 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 20, 64), dtype=float32) --- 
+2020-10-19 19:40:32,351 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 20, 64), dtype=float32) --- 
+2020-10-19 19:40:32,351 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 20, 64), dtype=float32) --- 
+2020-10-19 19:41:23,640 :: INFO ::  --- Program starts --- 
+2020-10-19 19:41:23,891 :: INFO ::  --- Loaded data as dict --- 
+2020-10-19 19:41:24,051 :: INFO ::  --- Data has been tokenized --- 
+2020-10-19 19:41:24,052 :: INFO ::  --- 1000 rows in total --- 
+2020-10-19 19:41:24,052 :: INFO ::  --- Data has 1 channels --- 
+2020-10-19 19:41:24,060 :: INFO ::  --- Batched dataset created --- 
+2020-10-19 19:41:24,061 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:41:24,061 :: INFO ::  --- channel text has 5d embedding dims --- 
+2020-10-19 19:41:24,068 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:41:24,068 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:41:24,068 :: INFO ::  --- encoders instanciated --- 
+2020-10-19 19:41:25,744 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:41:25,744 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:41:25,744 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:41:25,744 :: DEBUG ::  --- Forward Pass through SimpleDecoder --- 
+2020-10-19 19:41:27,543 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:41:27,543 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:41:27,543 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:41:27,543 :: DEBUG ::  --- Forward Pass through SimpleEncoder --- 
+2020-10-19 19:41:27,597 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:41:27,597 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:41:27,597 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:41:27,597 :: DEBUG ::  --- Input shape of Simple Encoder is :
+X :(20, 20)
+ hidden :(20, 128) --- 
+2020-10-19 19:41:27,911 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 64), dtype=float32) --- 
+2020-10-19 19:41:27,911 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 64), dtype=float32) --- 
+2020-10-19 19:41:27,911 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 64), dtype=float32) --- 
+2020-10-19 19:41:27,911 :: DEBUG ::  --- Output shape of Simple Encoder is :
+Tensor("encoder_multi_channel/simple_encoder/dense/BiasAdd:0", shape=(20, 64), dtype=float32) --- 

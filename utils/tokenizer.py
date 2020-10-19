@@ -3,7 +3,7 @@ import re
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from nltk.tokenize import word_tokenize
-from general_config import config
+from general_config import general_config
 
 
 def unicode_to_ascii(s):
@@ -53,12 +53,12 @@ def tokenize_sequence(data, max_num_words, max_vocab_size,columns_to_select=["ob
     tensors=[]
     word_indexes=[]
 
-    if config['experiment']=='traces':
+    if general_config['experiment']=='traces':
         data=preprocess_traces_dictionnary(data)
         _word_tokenize_ref = lambda x: x.split(' ')
         _preprocess_sentence = lambda x:x
 
-    elif config['experiment']=='text':
+    elif general_config['experiment']=='text':
         columns_to_select=['text']
         _word_tokenize_ref = word_tokenize
         _preprocess_sentence = preprocess_sentence

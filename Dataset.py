@@ -16,8 +16,10 @@ class Dataset:
 
         self.log.info("Data has been tokenized")
         self.log.info(str(len(tensors[0]))+" rows in total")
+        self.len=len(tensors[0])
         self.channels = len(tensors)
-        assert (config['experiment']=='traces' or (config['experiment']=='text' and self.channels == 1))
+        self.log.info("Data has "+str(self.channels)+" channels")
+        assert (general_config['experiment']=='traces' or (general_config['experiment']=='text' and self.channels == 1))
 
         datasets=[]
         for tensor in tensors:
@@ -25,18 +27,18 @@ class Dataset:
 
         self.dataset=tf.data.Dataset.zip(tuple(datasets))
 
-        self.batched_dataset = self.dataset.batch(config['batch_size'])
+        self.batched_dataset = self.dataset.batch(general_config['batch_size'], drop_remainder=True)
         self.log.info("Batched dataset created")
 
     def load_data(self,limit_rows=False):
-        if config['experiment']=='text':
-            name_csv = config['text_data_name']
+        if general_config['experiment']=='text':
+            name_csv = general_config['text_data_name']
             word='sentence'
-        elif config['experiment']=='traces':
-            name_csv= config['traces_data_name']
+        elif general_config['experiment']=='traces':
+            name_csv= general_config['traces_data_name']
             word='client'
 
-        dir = PurePath(config['data_dir'])
+        dir = PurePath(general_config['data_dir'])
         file_name = Path.joinpath(dir, name_csv)
         with open(file_name, 'r') as f:
             _dict = json.load(f)
@@ -45,9 +47,9 @@ class Dataset:
                 del _dict[word + str(i)]
         self.channel_names=_dict[word+str(0)].keys()
         self.log.info("Loaded data as dict")
-        tensors, words_indexes = tokenize_sequence(_dict, max_num_words=config['max_num_words'],
+        tensors, words_indexes = tokenize_sequence(_dict, max_num_words=general_config['max_num_words'],
 
-                                                   max_vocab_size=config['max_vocab_size'])
+                                                   max_vocab_size=general_config['max_vocab_size'])
 
         return tensors,words_indexes
 

@@ -1,5 +1,7 @@
 import logging
 import os
+from pathlib import Path
+import inspect
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 general_config = dict(
@@ -11,7 +13,17 @@ general_config = dict(
     traces_data_name='scannette.json',
     text_data_name='snli_train.json',
 
-    logging_level=logging.INFO,
+    logging_level=logging.DEBUG,
 
+    #hyperparameters preprocessing
+    max_num_words=20,
+    max_vocab_size=80,
+    batch_size=20,
 
 )
+
+def Hey():
+    pass
+
+root=str(Path(inspect.getfile(Hey)).parent)
+general_config['root']=root
